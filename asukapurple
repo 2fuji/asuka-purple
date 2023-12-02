@@ -236,13 +236,9 @@
       "BRAND_830": "#141738",
       "BRAND_860": "#0d0f24",
       "BRAND_900": "#04050c"
-  },
-  "spec": 2
 }
 background": {
     "blur": 0.6,
     "url": "https://cdn.discordapp.com/attachments/1012071861460414616/1180352105446395904/Untitled2_20231201223654.png?ex=657d1b8f&is=656aa68f&hm=502bf8ff76e748b1de7b2f6bdba4aa8a8f58372e8772b0b2cd8ab50ef86673af&",
     "alpha": 1
-  },
-  "spec": 2
 }
